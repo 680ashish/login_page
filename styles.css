@@ -315,6 +315,9 @@ input {
 
         margin-top: 24%;
     }
+    .container{
+        min-height:48vh;
+    }
 }
 
 /* Responsive adjustments for larger screens */
